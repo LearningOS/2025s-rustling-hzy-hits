@@ -1,0 +1,1 @@
+FlatMap<std::slice::Iter<'_, std::collections::HashMap<String, Progress>>, for<'a> fn(&'a std::collections::HashMap<String, Progress>, Progress) -> usize {count_iterator}, {closure@exercises/iterators/iterators5.rs:55:19: 55:24}>

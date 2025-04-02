@@ -1,0 +1,2 @@
+for<'a> fn(&'a collections::hash::map::HashMap<String, Progress>, Progress) -> usize {count_iterator}
+for<'a> fn(&'a std::collections::HashMap<String, Progress>, Progress) -> usize {count_iterator}
